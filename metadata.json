@@ -1,0 +1,6 @@
+{
+  "name": "VisionAI",
+  "description": "AI-powered Image Classification System with Grad-CAM explainability, benchmarking, and webcam integrations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
